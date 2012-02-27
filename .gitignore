@@ -1,0 +1,10 @@
+_ReSharper.Cube/
+obj/
+*.sln
+*.suo
+test-results/
+*.csproj
+*.pidb
+Library/
+
+.DS_Store
