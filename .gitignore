@@ -1,10 +1,10 @@
-_ReSharper.Cube/
-obj/
 *.sln
-*.suo
-test-results/
 *.csproj
+*.userprefs
+*.bin
+*.obj
 *.pidb
-Library/
-
 .DS_Store
+Library/
+*.userprefs
+*.unityproj

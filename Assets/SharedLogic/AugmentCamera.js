@@ -1,9 +1,5 @@
 var custom : GUIStyle;
 
-function OnGUI () {
-	//GUI.Label (Rect (10, 10, 800, 40), "Hello World!", custom);
-}
-
 function RotateAugmented (x_in : float, y_in : float) {
 	// cleanup crew - implement this function
 	// up here, (it's down below)
